@@ -1,1 +1,2 @@
-# abdul
+# synchronousBallMovement
+Ball moving synchronously
